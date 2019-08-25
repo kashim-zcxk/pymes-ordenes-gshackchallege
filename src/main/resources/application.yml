@@ -1,0 +1,13 @@
+spring:
+  data:
+    mongodb:
+      host: SG-pipo2-24880.servers.mongodirector.com
+      port: 27017
+      database: gshackchallege
+      username: pipo
+      password: pipo123456789pipo123456789
+  application:
+    name: pymes-ordenes
+    
+server:
+  port: 8002
